@@ -1,1 +1,116 @@
 /* ADD YOUR STYLES HERE */
+
+
+
+.changes {
+    border-bottom: 1px solid gray;
+    border-spacing: 0;
+    vertical-align: middle;
+    padding: 10px;
+    padding-right: 100px;
+    
+}
+
+    
+.cool { 
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding-right: 25px;
+    text-align: center
+    
+}
+
+
+.bold {
+    font-size: xx-large;
+    padding-right: 25px; 
+    padding-bottom: 15px;
+    padding-top: 15px
+    
+   
+}   
+
+
+.small {
+    font-size: small;
+    color: gray;
+    padding-right: 25px;
+
+
+/*bar graph*/
+    
+}
+
+.tsize {
+    width: 100%;
+    padding-bottom: 3px;
+    font-size: medium
+}
+
+.styles {
+    background-color: #599EDE;
+    width: 100%;
+   color: white
+}
+
+.text {
+ width: 25%;
+ text-align: right
+}
+
+
+/*lightbox
+
+
+.h3 {
+    font-size: larger
+}
+
+.lightbox {
+    position: fixed;
+    top: 50%;
+    right:25%;
+    left: 25%
+}
+.content.box {
+    z-index:99;
+    bottom:0;
+    padding:150px;
+    margin:7px;
+    background:rgba(0,0,0,0.8);
+    color:#595959;
+    font-size:18px;
+    
+} 
+
+.close {
+    display: block;
+    text-decoration:none;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:18px;
+    color:#FFFFFF;
+    float:right;
+    background-color:#ED818A;
+    border-radius: 5px;
+    
+    }
+*/
+
+/*Media block*/
+.media {margin:10px;}
+.media_img: margin-right: 10px
+
+*/
+.Media_1 {
+  display: flex;
+  align-items: flex-start;
+}
+
+.Media_img {
+  margin-right: 1em;
+}
+
+.Media_body {
+  flex: 1;
+}
+
